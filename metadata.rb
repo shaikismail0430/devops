@@ -1,6 +1,6 @@
-name             'devops'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+name             'Ismail Shaik'
+maintainer       '3M'
+maintainer_email 'ishaik@mmm.com'
 license          'CC-BY-SA'
 description      'Installs/Configures devops'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
